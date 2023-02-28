@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @abdulxs
-- 👀 I’m interested in DevOps engineering
-- 🌱 I’m currently learning Kubernetes and AWS Cloud
+- 👋 Hi, I’m Abdulgafar
+- 👀 I’m a DevOps engineer
+- 🌱 I’m currently working on some projects using Kubernetes and AWS Cloud
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 You can reach me on twitter @abdul_xs and email gaftofi@gmail.com
 
