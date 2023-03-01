@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abdulgafar
-- 👀 "\f109";  I’m a DevOps engineer
+- 💻 I’m a DevOps engineer
 - 🌱 I’m currently working on some projects using Kubernetes and AWS Cloud
 - 💞️ I’m looking to collaborate on exciting projects
 - 📫 You can reach me on twitter @abdul_xs and email gaftofi@gmail.com
