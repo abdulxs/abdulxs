@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Abdulgafar
 - 💻 I’m a DevOps engineer
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 You can reach me on LinkedIn and email yusufabdulgafar123@gmail.com
+- 📫 You can reach me on [LinkedIn](www.linkedin.com/in/abdulgafar-yusuf-815a18157) and email yusufabdulgafar123@gmail.com
 
 <!---
 abdulxs/abdulxs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
