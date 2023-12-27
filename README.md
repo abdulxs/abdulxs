@@ -1,4 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdulxs)](https://git.io/streak-stats)
 
 - 👋 Hi, I’m Abdulgafar
 - 💻 I’m a DevOps engineer
