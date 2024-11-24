@@ -1,7 +1,7 @@
 
 - 👋 Hi, I’m Abdulgafar
 - 💻 I’m a DevOps engineer and enthusiastic eye tracking researcher.
-- 💞️ I’m looking to collaborate on exciting projects.
+- 💞️ I’m looking to collaborate on exciting projects. [Portfolio](https://abdulxs.github.io/Portfolio)
 - 📫 You can reach me on [LinkedIn](www.linkedin.com/in/abdulgafar-yusuf-815a18157) and email yusufabdulgafar123@gmail.com
 - 📝 Follow my project blog posts on [Dev](https://dev.to/abdulxs)
 <!---
